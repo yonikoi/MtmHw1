@@ -16,10 +16,10 @@ To make things a bit more fun, each TA added a link to song/video we would like 
 
 Tell us a bit about yourselves! 
 
-	- First student's name:
-	- Favorite singer:
-	- Favorite song:
-	- Desirable grade in Matam:
+	- First student's name: Jonathan K
+	- Favorite singer: sss
+	- Favorite song: aa
+	- Desirable grade in Matam: 69
 	- which TA's song you liked the most:
 
 	- Second student's name:
